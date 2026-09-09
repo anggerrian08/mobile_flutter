@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-
+import 'modul_3/modul_3_app.dart';
 void main() {
-  runApp(const PoliwangiProfileApp());
+  runApp(Modul03App());
 }
 
 class PoliwangiProfileApp extends StatelessWidget {
